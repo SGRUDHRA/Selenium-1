@@ -3,3 +3,4 @@ Get the image locator
 get the attribute for image 
 based on the image attribiute and compare to the zero value 
 if image value zero it was brokwn image or else it is a valid image
+verify image
